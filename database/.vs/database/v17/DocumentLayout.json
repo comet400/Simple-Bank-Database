@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5290894-A024-49DF-835B-3280F21EDEF0}|database\\database.vcxproj|C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5290894-A024-49DF-835B-3280F21EDEF0}|database\\database.vcxproj|solutionrelative:database\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5290894-A024-49DF-835B-3280F21EDEF0}|database\\database.vcxproj|C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5290894-A024-49DF-835B-3280F21EDEF0}|database\\database.vcxproj|solutionrelative:database\\bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5290894-A024-49DF-835B-3280F21EDEF0}|database\\database.vcxproj|C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5290894-A024-49DF-835B-3280F21EDEF0}|database\\database.vcxproj|solutionrelative:database\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\main.cpp",
+              "RelativeDocumentMoniker": "database\\main.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\main.cpp",
+              "RelativeToolTip": "database\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T21:11:18.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\bank.cpp",
+              "RelativeDocumentMoniker": "database\\bank.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\bank.cpp",
+              "RelativeToolTip": "database\\bank.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T22:02:56.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.h",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\Bank.h",
+              "RelativeDocumentMoniker": "database\\Bank.h",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Simple-Bank-Database\\database\\database\\Bank.h",
+              "RelativeToolTip": "database\\Bank.h",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T00:45:08.728Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
